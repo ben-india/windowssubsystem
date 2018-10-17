@@ -13,7 +13,6 @@ Installation :
     We are done with the setup. Next step is install linux. 
     For that, we need to go to Microsoft Store. And search for "Linux" or "Ubuntu". And get the app.
 
-
   Access :
     To access open powershell or command prompt. 
     type bash. You are all set. 
